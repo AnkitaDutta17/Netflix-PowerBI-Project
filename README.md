@@ -33,7 +33,7 @@ This project presents an interactive Power BI dashboard built to analyze Netflix
 
 ## 🔹 Files in Repository
 - `Netflix-PowerBI-Project.pbix` → Power BI dashboard  
-- `` → Dataset used
+- `Netflix TV Shows and Movies.xlsx` → Dataset used
 
 ## 🔹 Dashboard Preview
 * Sum of Rating Votes Every Release Year
