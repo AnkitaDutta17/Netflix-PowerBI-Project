@@ -1,7 +1,0 @@
-# vkslkdlk
-
-vnk
-
-nkknk
-
-cfmklk
